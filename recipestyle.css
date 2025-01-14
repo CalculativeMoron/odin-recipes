@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+p {
+  color: firebrick;
+  font-size: 20px;
+  font-family: serif;
+  padding: 12px;
+  border: 10px;
+  margin: 10px;
+}
+
+h2 {
+  color: maroon;
+}
+
+h1 {
+  font-family: verdana;
+  text-transform: uppercase;
+}
+
+.list{
+  color: green;
+  font-weight: 100;
+}
+
+background-color {
+  color:azure;
+}
+
+a {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.uran {
+  color: greenyellow;
+}
+
+.makegreen {
+  color: green;
+}
+
+.nopurple {
+  color: yellowgreen;
+}
+
+.listy {
+  color: red;
+}
+
+.maroon {
+  color: maroon;
+}
+
+.lis {
+  color: blue;
+}
+
+.li {
+  color: aqua;
+}
+
+.l {
+  color: aquamarine;
+}
+
+.la {
+  color: lightskyblue;
+}
+
+img {
+  height: auto;
+  width: 180px;
+  padding: 20px;
+  border: 10px;
+  margin: 0px;
+}
+
+.madness {
+  border-color: red;
+}
+
+.waste {
+  border-color: green;
+}
+a:hover {
+  color: azure;
+}
+
+.right {
+  text-align: right;
+}
