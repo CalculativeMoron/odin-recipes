@@ -8,4 +8,10 @@
   <li>
     <h1>Why does my site look completely wrong?</h1>
   </li>
+  <li>
+    <h1>Chatgpt is not helping</h1>
+  </li>
+  <li>
+    <h1>Re-do my code, that might be the problem<h1>
+  </li>
 </ul>
