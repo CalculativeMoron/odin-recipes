@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+p {
+  color: firebrick;
+  font-size: 20px;
+  font-family: serif;
+}
+
+h2 {
+  color: maroon;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: verdana;
+}
+
+.list{
+  color: green;
+  font-weight: 100;
+}
+
+background-color {
+  color:azure;
+}
+
+a {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.uran {
+  color: greenyellow;
+}
+
+.makegreen {
+  color: green;
+}
+
+.nopurple {
+  color: yellowgreen;
+}
+
+.listy {
+  color: red;
+}
+
+.maroon {
+  color: maroon;
+}
+
+.lis {
+  color: blue;
+}
+
+img {
+  height: auto;
+  width: 180px;
+  margin: 20px;
+}
+
+a[href*='recipe/waste.html'] {
+  color: green;
+}
+
+a[href*='recipe/madness.html'] {
+  color: red;
+}
+
+a[href*="recipe/sanity.html"] {
+  color: blue;
+}
+
+a:hover {
+  color: azure;
+}
+
+hr {
+  border-width: 3px;
+}
